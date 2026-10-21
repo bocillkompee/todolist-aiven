@@ -644,9 +644,6 @@ export default function Home() {
             <p className="text-xs text-slate-400">
               Selesai {stats.completed} dari {stats.total} tugas
             </p>
-            <p className="text-xs text-slate-400">
-              GET /api/setup untuk menyiapkan tabel
-            </p>
           </footer>
         </section>
       </div>
